@@ -5,7 +5,7 @@ Nome dos integrantes:
 - Cainã Perotti
 - Victor de Oliveira da Motta
 
-Link do Surge: berserk-mouth.surge.sh
+Link do Surge: http://berserk-mouth.surge.sh/
 
 O que funciona:
 - Renderização pela Api pública (https://pokeapi.co/docs/v2#pokemon) de imagens, gifs, nomes e propriedades dos Pokemóns.
